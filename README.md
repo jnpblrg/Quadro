@@ -1,16 +1,31 @@
 ﻿Quadro
 ======
+## ¿Qué es Quadro?
 
-Desde este repositorio podrás descargarte el diseño de Quadro, una impresora 3D basada en la Prusa i3, y sobre la que se montará un carro con triple hot end.
+Quadro es una impresora 3D basada en la ya conocida Prusa i3.
 
-En la carpeta STL's, se irán actualizando los stl de cada una de las partes de la impresora a medida que se van validando. Además, podrás descargarte el diseño en SketchUp de cada una de ellas en el caso de que desees modificar alguna.
+Esta impresora ha sido diseñada con SketchUp 2013.
 
-_____________________________________________________________________________________________________
+## ¿Quién la ha diseñado y para qué?
 
-Esta impresora pertenece al proyecto multiXtruder: http://iearobotics.com/multixtruder/doku.php
+El diseño es de JuanPa Rodríguez, supervisado por Alberto Valero.
 
-El diseño está realizado en SketchUp 2013.
+Quadro pertenece al proyecto [http://iearobotics.com/multixtruder/doku.php](multiXtruder)
 
-Los STL se irán modificando a medida que se valida el diseño (todavía muy verde)
+Sobre ella se montará un carro para triple extrusor (para más detalles, entrar en la página del proyecto)
+
+## ¿Cómo construirse una?
+
+Desde este repositorio podrás descargarte el diseño en SketchUp y los stl de cada una de las piezas.
+
+Además, en el archivo "Quadro_completa.skp" está la impresora completa, con todas sus piezas. En él, podrás tomar medidas de todas las piezas: varillas, marco, métricas...etc
+
+___________________________________________________________________________________________________________
+
+## NOTA
+
+El diseño está en fase de validación y los archivos irán evolucionando a medida que se valida el diseño.
+
+Para cualquier sugerencia, puedes escribir a JuanPa: jnpbl.rg@gmail.com
 
 
