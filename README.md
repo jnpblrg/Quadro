@@ -10,7 +10,7 @@ Esta impresora ha sido diseñada con SketchUp 2013.
 
 El diseño es de JuanPa Rodríguez, supervisado por Alberto Valero.
 
-Quadro pertenece al proyecto [http://iearobotics.com/multixtruder/doku.php|multiXtruder]
+Quadro pertenece al proyecto multiXtruder: [http://iearobotics.com/multixtruder/doku.php]
 
 Sobre ella se montará un carro para triple extrusor (para más detalles, entrar en la página del proyecto)
 
