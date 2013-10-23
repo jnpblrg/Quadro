@@ -8,7 +8,7 @@ Esta impresora ha sido diseñada con SketchUp 2013.
 
 ## ¿Quién la ha diseñado y para qué?
 
-El diseño es de JuanPa Rodríguez, supervisado por Alberto Valero.
+El diseño es de JuanPa Rodríguez
 
 Quadro pertenece al proyecto multiXtruder: http://iearobotics.com/multixtruder/doku.php
 
