@@ -4,6 +4,7 @@
 
 ^Fecha ^Cambios^
 
+|1/11/2013            | Nuevo carro biXtruder. Lo imprimiré y lo probaré. A ver qué tal funciona la regulación de altura {{ :carro_bixtruder.png?nolink&500 |}}   |
 |31/10/2013            | Modificando el carro para poder pasar los cables sin dificultad. Pronto publicaré un carro para doble hot end y uno para triple hot end...  |
 |31/10/2013            | El soporte para los dos extrusores está imprimido y esta segunda versión va perfecta (habrá que ver si el eje Z levanta sin problemas el eje X {{ :soporte_extrusores_modif2.png?nolink&400 |}}  |
 |31/10/2013            | La regulación de altura de los hot end se hará poniendo una junta de goma debajo de éstos, pudiendo variar en unas micras la altura de cada uno de ellos apretando y desapretando los tornillos (los dos de los extremos) {{ :regulacion_altura.png?nolink&400 |}}  |
